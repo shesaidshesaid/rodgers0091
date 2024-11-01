@@ -202,4 +202,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Espero que este README forneça todas as informações necessárias para você e outros colaboradores entenderem e executarem o projeto. Se precisar de mais detalhes ou tiver dúvidas, sinta-se à vontade para perguntar!
