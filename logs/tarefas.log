@@ -1,0 +1,1744 @@
+2024-11-11 12:22:23 - Starting TarefasApplicationTests using Java 17.0.13 with PID 12268 (started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 12:22:23 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 12:22:23 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 12:22:24 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 12:22:24 - Finished Spring Data repository scanning in 20 ms. Found 0 JPA repository interfaces.
+2024-11-11 12:22:25 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 12:22:25 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 12:22:25 - HHH000026: Second-level cache disabled
+2024-11-11 12:22:26 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 12:22:26 - HikariPool-1 - Starting...
+2024-11-11 12:22:26 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@79d4ff58
+2024-11-11 12:22:26 - HikariPool-1 - Start completed.
+2024-11-11 12:22:26 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 12:22:27 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 12:22:27 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 12:22:27 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 12:22:28 - Started TarefasApplicationTests in 5.593 seconds (process running for 7.256)
+2024-11-11 12:22:29 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 12:22:29 - HikariPool-1 - Shutdown initiated...
+2024-11-11 12:22:29 - HikariPool-1 - Shutdown completed.
+2024-11-11 12:23:11 - Starting TarefasApplication using Java 17.0.13 with PID 1796 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 12:23:11 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 12:23:11 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 12:23:12 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 12:23:12 - Finished Spring Data repository scanning in 16 ms. Found 0 JPA repository interfaces.
+2024-11-11 12:23:13 - Tomcat initialized with port 8080 (http)
+2024-11-11 12:23:13 - Starting service [Tomcat]
+2024-11-11 12:23:13 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 12:23:13 - Initializing Spring embedded WebApplicationContext
+2024-11-11 12:23:13 - Root WebApplicationContext: initialization completed in 1616 ms
+2024-11-11 12:23:13 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 12:23:13 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 12:23:13 - HHH000026: Second-level cache disabled
+2024-11-11 12:23:14 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 12:23:14 - HikariPool-1 - Starting...
+2024-11-11 12:23:14 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@368424db
+2024-11-11 12:23:14 - HikariPool-1 - Start completed.
+2024-11-11 12:23:14 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 12:23:15 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 12:23:15 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 12:23:15 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 12:23:15 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 12:23:15 - Started TarefasApplication in 4.485 seconds (process running for 4.911)
+2024-11-11 12:35:37 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 12:35:37 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 12:35:37 - Completed initialization in 2 ms
+2024-11-11 12:35:42 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 12:35:42 - HikariPool-1 - Shutdown initiated...
+2024-11-11 12:35:42 - HikariPool-1 - Shutdown completed.
+2024-11-11 12:37:00 - Starting TarefasApplication using Java 17.0.13 with PID 7900 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 12:37:00 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 12:37:00 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 12:37:01 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 12:37:01 - Finished Spring Data repository scanning in 62 ms. Found 1 JPA repository interface.
+2024-11-11 12:37:02 - Tomcat initialized with port 8080 (http)
+2024-11-11 12:37:02 - Starting service [Tomcat]
+2024-11-11 12:37:02 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 12:37:02 - Initializing Spring embedded WebApplicationContext
+2024-11-11 12:37:02 - Root WebApplicationContext: initialization completed in 1686 ms
+2024-11-11 12:37:02 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 12:37:02 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 12:37:02 - HHH000026: Second-level cache disabled
+2024-11-11 12:37:03 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 12:37:03 - HikariPool-1 - Starting...
+2024-11-11 12:37:03 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5c9a4f3b
+2024-11-11 12:37:03 - HikariPool-1 - Start completed.
+2024-11-11 12:37:03 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 12:37:05 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 12:37:05 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 12:37:05 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 12:37:06 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 12:37:06 - Started TarefasApplication in 6.017 seconds (process running for 6.511)
+2024-11-11 12:37:06 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 12:37:06 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 12:37:06 - Completed initialization in 1 ms
+2024-11-11 13:45:03 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m28s676ms334µs600ns).
+2024-11-11 14:02:46 - Starting TarefasApplication using Java 17.0.13 with PID 12984 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 14:02:46 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 14:02:46 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 14:02:46 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 14:02:46 - Finished Spring Data repository scanning in 60 ms. Found 1 JPA repository interface.
+2024-11-11 14:02:47 - Tomcat initialized with port 8080 (http)
+2024-11-11 14:02:47 - Starting service [Tomcat]
+2024-11-11 14:02:47 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 14:02:47 - Initializing Spring embedded WebApplicationContext
+2024-11-11 14:02:47 - Root WebApplicationContext: initialization completed in 1746 ms
+2024-11-11 14:02:48 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 14:02:48 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 14:02:48 - HHH000026: Second-level cache disabled
+2024-11-11 14:02:48 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 14:02:48 - HikariPool-1 - Starting...
+2024-11-11 14:02:49 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@bd273b2
+2024-11-11 14:02:49 - HikariPool-1 - Start completed.
+2024-11-11 14:02:49 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 14:02:50 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 14:02:50 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:02:50 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 14:02:50 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 14:02:50 - Started TarefasApplication in 5.439 seconds (process running for 5.836)
+2024-11-11 14:10:11 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:10:11 - HikariPool-1 - Shutdown initiated...
+2024-11-11 14:10:11 - HikariPool-1 - Shutdown completed.
+2024-11-11 14:10:43 - Starting TarefasApplication using Java 17.0.13 with PID 16792 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 14:10:43 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 14:10:43 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 14:10:44 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 14:10:44 - Finished Spring Data repository scanning in 123 ms. Found 1 JPA repository interface.
+2024-11-11 14:10:44 - Tomcat initialized with port 8080 (http)
+2024-11-11 14:10:44 - Starting service [Tomcat]
+2024-11-11 14:10:44 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 14:10:44 - Initializing Spring embedded WebApplicationContext
+2024-11-11 14:10:44 - Root WebApplicationContext: initialization completed in 1707 ms
+2024-11-11 14:10:45 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 14:10:45 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 14:10:45 - HHH000026: Second-level cache disabled
+2024-11-11 14:10:45 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 14:10:45 - HikariPool-1 - Starting...
+2024-11-11 14:10:46 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5408d4b3
+2024-11-11 14:10:46 - HikariPool-1 - Start completed.
+2024-11-11 14:10:46 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 14:10:47 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 14:10:47 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:10:47 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 14:10:48 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 14:10:48 - Started TarefasApplication in 5.395 seconds (process running for 5.867)
+2024-11-11 14:13:06 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 14:13:06 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 14:13:06 - Completed initialization in 0 ms
+2024-11-11 14:41:06 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:41:06 - HikariPool-1 - Shutdown initiated...
+2024-11-11 14:41:06 - HikariPool-1 - Shutdown completed.
+2024-11-11 14:41:22 - Starting TarefasApplication using Java 17.0.13 with PID 13368 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 14:41:22 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 14:41:22 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 14:41:23 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 14:41:23 - Finished Spring Data repository scanning in 58 ms. Found 1 JPA repository interface.
+2024-11-11 14:41:24 - Tomcat initialized with port 8080 (http)
+2024-11-11 14:41:24 - Starting service [Tomcat]
+2024-11-11 14:41:24 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 14:41:24 - Initializing Spring embedded WebApplicationContext
+2024-11-11 14:41:24 - Root WebApplicationContext: initialization completed in 1886 ms
+2024-11-11 14:41:24 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 14:41:24 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 14:41:24 - HHH000026: Second-level cache disabled
+2024-11-11 14:41:25 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 14:41:25 - HikariPool-1 - Starting...
+2024-11-11 14:41:25 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1716c037
+2024-11-11 14:41:25 - HikariPool-1 - Start completed.
+2024-11-11 14:41:25 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 14:41:26 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 14:41:26 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:41:27 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 14:41:27 - 
+
+Using generated security password: 50202fea-e3ea-4314-a8ac-947fc23cbc21
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 14:41:27 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 14:41:27 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 14:41:27 - Started TarefasApplication in 6.016 seconds (process running for 6.44)
+2024-11-11 14:41:40 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 14:41:40 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 14:41:40 - Completed initialization in 1 ms
+2024-11-11 14:42:13 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:42:13 - HikariPool-1 - Shutdown initiated...
+2024-11-11 14:42:13 - HikariPool-1 - Shutdown completed.
+2024-11-11 14:42:25 - Starting TarefasApplication using Java 17.0.13 with PID 10564 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 14:42:25 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 14:42:25 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 14:42:26 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 14:42:26 - Finished Spring Data repository scanning in 76 ms. Found 1 JPA repository interface.
+2024-11-11 14:42:27 - Tomcat initialized with port 8080 (http)
+2024-11-11 14:42:27 - Starting service [Tomcat]
+2024-11-11 14:42:27 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 14:42:27 - Initializing Spring embedded WebApplicationContext
+2024-11-11 14:42:27 - Root WebApplicationContext: initialization completed in 2071 ms
+2024-11-11 14:42:27 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 14:42:27 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 14:42:27 - HHH000026: Second-level cache disabled
+2024-11-11 14:42:28 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 14:42:28 - HikariPool-1 - Starting...
+2024-11-11 14:42:28 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@79b63325
+2024-11-11 14:42:28 - HikariPool-1 - Start completed.
+2024-11-11 14:42:28 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 14:42:29 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 14:42:30 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:42:30 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 14:42:30 - 
+
+Using generated security password: acde073c-d8bb-4b2d-b37c-5af954ecc3a9
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 14:42:30 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 14:42:30 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 14:42:30 - Started TarefasApplication in 6.701 seconds (process running for 7.106)
+2024-11-11 14:43:01 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:43:01 - HikariPool-1 - Shutdown initiated...
+2024-11-11 14:43:01 - HikariPool-1 - Shutdown completed.
+2024-11-11 14:43:15 - Starting TarefasApplicationTests using Java 17.0.13 with PID 12152 (started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 14:43:15 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 14:43:15 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 14:43:16 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 14:43:16 - Finished Spring Data repository scanning in 89 ms. Found 1 JPA repository interface.
+2024-11-11 14:43:17 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 14:43:17 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 14:43:18 - HHH000026: Second-level cache disabled
+2024-11-11 14:43:18 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 14:43:18 - HikariPool-1 - Starting...
+2024-11-11 14:43:19 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@aa0dbca
+2024-11-11 14:43:19 - HikariPool-1 - Start completed.
+2024-11-11 14:43:19 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 14:43:20 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 14:43:20 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:43:21 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 14:43:21 - 
+
+Using generated security password: 398c5dd1-a303-4a4e-bab3-f778f9dbbfdd
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 14:43:21 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 14:43:22 - Started TarefasApplicationTests in 6.699 seconds (process running for 8.103)
+2024-11-11 14:43:23 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:43:23 - HikariPool-1 - Shutdown initiated...
+2024-11-11 14:43:23 - HikariPool-1 - Shutdown completed.
+2024-11-11 14:43:35 - Starting TarefasApplication using Java 17.0.13 with PID 15336 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 14:43:35 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 14:43:35 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 14:43:35 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 14:43:35 - Finished Spring Data repository scanning in 53 ms. Found 1 JPA repository interface.
+2024-11-11 14:43:36 - Tomcat initialized with port 8080 (http)
+2024-11-11 14:43:36 - Starting service [Tomcat]
+2024-11-11 14:43:36 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 14:43:36 - Initializing Spring embedded WebApplicationContext
+2024-11-11 14:43:36 - Root WebApplicationContext: initialization completed in 1511 ms
+2024-11-11 14:43:36 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 14:43:37 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 14:43:37 - HHH000026: Second-level cache disabled
+2024-11-11 14:43:37 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 14:43:37 - HikariPool-1 - Starting...
+2024-11-11 14:43:37 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1716c037
+2024-11-11 14:43:37 - HikariPool-1 - Start completed.
+2024-11-11 14:43:37 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 14:43:38 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 14:43:39 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:43:39 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 14:43:39 - 
+
+Using generated security password: ecb90c86-ae1d-4b10-b8b6-585295de7002
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 14:43:39 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 14:43:39 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 14:43:39 - Started TarefasApplication in 5.3 seconds (process running for 5.687)
+2024-11-11 14:43:45 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 14:43:45 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 14:43:45 - Completed initialization in 1 ms
+2024-11-11 14:47:25 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:47:25 - HikariPool-1 - Shutdown initiated...
+2024-11-11 14:47:25 - HikariPool-1 - Shutdown completed.
+2024-11-11 14:47:38 - Starting TarefasApplication using Java 17.0.13 with PID 1528 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 14:47:38 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 14:47:38 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 14:47:39 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 14:47:39 - Finished Spring Data repository scanning in 63 ms. Found 1 JPA repository interface.
+2024-11-11 14:47:40 - Tomcat initialized with port 8080 (http)
+2024-11-11 14:47:40 - Starting service [Tomcat]
+2024-11-11 14:47:40 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 14:47:40 - Initializing Spring embedded WebApplicationContext
+2024-11-11 14:47:40 - Root WebApplicationContext: initialization completed in 1736 ms
+2024-11-11 14:47:41 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 14:47:41 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 14:47:41 - HHH000026: Second-level cache disabled
+2024-11-11 14:47:41 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 14:47:41 - HikariPool-1 - Starting...
+2024-11-11 14:47:42 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@41938e1e
+2024-11-11 14:47:42 - HikariPool-1 - Start completed.
+2024-11-11 14:47:42 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 14:47:43 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 14:47:43 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:47:43 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 14:47:44 - 
+
+Using generated security password: 49712eef-596d-4598-8649-b6d03309c65a
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 14:47:44 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 14:47:44 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 14:47:44 - Started TarefasApplication in 5.82 seconds (process running for 6.396)
+2024-11-11 14:47:47 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 14:47:47 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 14:47:47 - Completed initialization in 2 ms
+2024-11-11 14:49:52 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:49:52 - HikariPool-1 - Shutdown initiated...
+2024-11-11 14:49:52 - HikariPool-1 - Shutdown completed.
+2024-11-11 14:50:04 - Starting TarefasApplication using Java 17.0.13 with PID 8776 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 14:50:04 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 14:50:04 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 14:50:05 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 14:50:05 - Finished Spring Data repository scanning in 58 ms. Found 1 JPA repository interface.
+2024-11-11 14:50:06 - Tomcat initialized with port 8080 (http)
+2024-11-11 14:50:06 - Starting service [Tomcat]
+2024-11-11 14:50:06 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 14:50:06 - Initializing Spring embedded WebApplicationContext
+2024-11-11 14:50:06 - Root WebApplicationContext: initialization completed in 1563 ms
+2024-11-11 14:50:06 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 14:50:06 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 14:50:06 - HHH000026: Second-level cache disabled
+2024-11-11 14:50:07 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 14:50:07 - HikariPool-1 - Starting...
+2024-11-11 14:50:07 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@36238b12
+2024-11-11 14:50:07 - HikariPool-1 - Start completed.
+2024-11-11 14:50:07 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 14:50:08 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 14:50:08 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:50:08 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 14:50:09 - 
+
+Using generated security password: a1f51bc7-9461-4bf2-9fdd-c887fd1b855c
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 14:50:09 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 14:50:09 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 14:50:09 - Started TarefasApplication in 5.254 seconds (process running for 5.675)
+2024-11-11 14:50:15 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 14:50:15 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 14:50:15 - Completed initialization in 2 ms
+2024-11-11 14:52:43 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:52:43 - HikariPool-1 - Shutdown initiated...
+2024-11-11 14:52:43 - HikariPool-1 - Shutdown completed.
+2024-11-11 14:52:55 - Starting TarefasApplication using Java 17.0.13 with PID 15932 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 14:52:55 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 14:52:55 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 14:52:55 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 14:52:56 - Finished Spring Data repository scanning in 54 ms. Found 1 JPA repository interface.
+2024-11-11 14:52:56 - Tomcat initialized with port 8080 (http)
+2024-11-11 14:52:56 - Starting service [Tomcat]
+2024-11-11 14:52:56 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 14:52:56 - Initializing Spring embedded WebApplicationContext
+2024-11-11 14:52:56 - Root WebApplicationContext: initialization completed in 1538 ms
+2024-11-11 14:52:57 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 14:52:57 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 14:52:57 - HHH000026: Second-level cache disabled
+2024-11-11 14:52:57 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 14:52:57 - HikariPool-1 - Starting...
+2024-11-11 14:52:57 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c92a549
+2024-11-11 14:52:57 - HikariPool-1 - Start completed.
+2024-11-11 14:52:57 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 14:52:58 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 14:52:58 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:52:59 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 14:52:59 - 
+
+Using generated security password: 482c5512-bc92-407d-9df7-ee0259387f88
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 14:52:59 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 14:52:59 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 14:52:59 - Started TarefasApplication in 5.234 seconds (process running for 5.617)
+2024-11-11 14:53:20 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 14:53:20 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 14:53:20 - Completed initialization in 1 ms
+2024-11-11 14:56:32 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:56:32 - HikariPool-1 - Shutdown initiated...
+2024-11-11 14:56:32 - HikariPool-1 - Shutdown completed.
+2024-11-11 14:56:43 - Starting TarefasApplication using Java 17.0.13 with PID 7764 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 14:56:43 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 14:56:43 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 14:56:44 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 14:56:44 - Finished Spring Data repository scanning in 53 ms. Found 1 JPA repository interface.
+2024-11-11 14:56:45 - Tomcat initialized with port 8080 (http)
+2024-11-11 14:56:45 - Starting service [Tomcat]
+2024-11-11 14:56:45 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 14:56:45 - Initializing Spring embedded WebApplicationContext
+2024-11-11 14:56:45 - Root WebApplicationContext: initialization completed in 1603 ms
+2024-11-11 14:56:45 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 14:56:45 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 14:56:45 - HHH000026: Second-level cache disabled
+2024-11-11 14:56:46 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 14:56:46 - HikariPool-1 - Starting...
+2024-11-11 14:56:46 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6ed51944
+2024-11-11 14:56:46 - HikariPool-1 - Start completed.
+2024-11-11 14:56:46 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 14:56:47 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 14:56:47 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 14:56:48 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 14:56:48 - 
+
+Using generated security password: 1d733f52-1667-411b-839b-d5fc5dc160d8
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 14:56:48 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 14:56:48 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 14:56:48 - Started TarefasApplication in 5.471 seconds (process running for 5.877)
+2024-11-11 14:57:05 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 14:57:05 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 14:57:05 - Completed initialization in 2 ms
+2024-11-11 15:00:19 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:00:19 - HikariPool-1 - Shutdown initiated...
+2024-11-11 15:00:19 - HikariPool-1 - Shutdown completed.
+2024-11-11 15:00:30 - Starting TarefasApplication using Java 17.0.13 with PID 19352 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 15:00:30 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 15:00:30 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 15:00:31 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 15:00:31 - Finished Spring Data repository scanning in 60 ms. Found 1 JPA repository interface.
+2024-11-11 15:00:32 - Tomcat initialized with port 8080 (http)
+2024-11-11 15:00:32 - Starting service [Tomcat]
+2024-11-11 15:00:32 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 15:00:32 - Initializing Spring embedded WebApplicationContext
+2024-11-11 15:00:32 - Root WebApplicationContext: initialization completed in 1842 ms
+2024-11-11 15:00:32 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 15:00:32 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 15:00:32 - HHH000026: Second-level cache disabled
+2024-11-11 15:00:33 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 15:00:33 - HikariPool-1 - Starting...
+2024-11-11 15:00:33 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@63dc3420
+2024-11-11 15:00:33 - HikariPool-1 - Start completed.
+2024-11-11 15:00:33 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 15:00:34 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 15:00:34 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:00:35 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 15:00:35 - 
+
+Using generated security password: 1f50f619-7d7b-487e-90e3-efd2aaeb125c
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 15:00:35 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 15:00:35 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 15:00:35 - Started TarefasApplication in 5.94 seconds (process running for 6.477)
+2024-11-11 15:00:49 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 15:00:49 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 15:00:49 - Completed initialization in 3 ms
+2024-11-11 15:10:23 - Starting TarefasApplication using Java 17.0.13 with PID 11092 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 15:10:23 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 15:10:23 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 15:10:23 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 15:10:23 - Finished Spring Data repository scanning in 57 ms. Found 1 JPA repository interface.
+2024-11-11 15:10:24 - Tomcat initialized with port 8080 (http)
+2024-11-11 15:10:24 - Starting service [Tomcat]
+2024-11-11 15:10:24 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 15:10:24 - Initializing Spring embedded WebApplicationContext
+2024-11-11 15:10:24 - Root WebApplicationContext: initialization completed in 1579 ms
+2024-11-11 15:10:24 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 15:10:24 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 15:10:25 - HHH000026: Second-level cache disabled
+2024-11-11 15:10:25 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 15:10:25 - HikariPool-1 - Starting...
+2024-11-11 15:10:25 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2d4f67e
+2024-11-11 15:10:25 - HikariPool-1 - Start completed.
+2024-11-11 15:10:25 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 15:10:26 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 15:10:26 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:10:27 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 15:10:27 - 
+
+Using generated security password: ee61bbd4-5352-47af-ab37-b80e984940af
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 15:10:27 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 15:10:27 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 15:10:27 - Started TarefasApplication in 5.337 seconds (process running for 5.754)
+2024-11-11 15:12:37 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 15:12:37 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 15:12:37 - Completed initialization in 2 ms
+2024-11-11 15:16:07 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:16:07 - HikariPool-1 - Shutdown initiated...
+2024-11-11 15:16:07 - HikariPool-1 - Shutdown completed.
+2024-11-11 15:18:24 - Starting TarefasApplication using Java 17.0.13 with PID 10136 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 15:18:24 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 15:18:24 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 15:18:25 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 15:18:25 - Finished Spring Data repository scanning in 63 ms. Found 1 JPA repository interface.
+2024-11-11 15:18:26 - Tomcat initialized with port 8080 (http)
+2024-11-11 15:18:26 - Starting service [Tomcat]
+2024-11-11 15:18:26 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 15:18:26 - Initializing Spring embedded WebApplicationContext
+2024-11-11 15:18:26 - Root WebApplicationContext: initialization completed in 1698 ms
+2024-11-11 15:18:26 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 15:18:26 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 15:18:26 - HHH000026: Second-level cache disabled
+2024-11-11 15:18:27 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 15:18:27 - HikariPool-1 - Starting...
+2024-11-11 15:18:27 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@708769b7
+2024-11-11 15:18:27 - HikariPool-1 - Start completed.
+2024-11-11 15:18:27 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 15:18:28 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 15:18:28 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:18:28 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 15:18:29 - 
+
+Using generated security password: a7a6e44f-0bab-4833-ada1-512156df11bb
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 15:18:29 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 15:18:29 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 15:18:29 - Started TarefasApplication in 5.343 seconds (process running for 5.814)
+2024-11-11 15:19:32 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 15:19:32 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 15:19:32 - Completed initialization in 5 ms
+2024-11-11 15:24:27 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:24:27 - HikariPool-1 - Shutdown initiated...
+2024-11-11 15:24:27 - HikariPool-1 - Shutdown completed.
+2024-11-11 15:24:40 - Starting TarefasApplication using Java 17.0.13 with PID 8472 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 15:24:40 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 15:24:40 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 15:24:41 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 15:24:41 - Finished Spring Data repository scanning in 57 ms. Found 1 JPA repository interface.
+2024-11-11 15:24:42 - Tomcat initialized with port 8080 (http)
+2024-11-11 15:24:42 - Starting service [Tomcat]
+2024-11-11 15:24:42 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 15:24:42 - Initializing Spring embedded WebApplicationContext
+2024-11-11 15:24:42 - Root WebApplicationContext: initialization completed in 1670 ms
+2024-11-11 15:24:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 15:24:42 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 15:24:42 - HHH000026: Second-level cache disabled
+2024-11-11 15:24:43 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 15:24:43 - HikariPool-1 - Starting...
+2024-11-11 15:24:43 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c92a549
+2024-11-11 15:24:43 - HikariPool-1 - Start completed.
+2024-11-11 15:24:43 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 15:24:44 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 15:24:44 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:24:45 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 15:24:45 - 
+
+Using generated security password: ee9c2aa5-3578-4627-8616-78e5a5fd59b6
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 15:24:45 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 15:24:45 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 15:24:45 - Started TarefasApplication in 6.032 seconds (process running for 6.488)
+2024-11-11 15:25:52 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:25:52 - HikariPool-1 - Shutdown initiated...
+2024-11-11 15:25:52 - HikariPool-1 - Shutdown completed.
+2024-11-11 15:26:03 - Starting TarefasApplication using Java 17.0.13 with PID 15628 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 15:26:03 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 15:26:03 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 15:26:04 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 15:26:04 - Finished Spring Data repository scanning in 57 ms. Found 1 JPA repository interface.
+2024-11-11 15:26:05 - Tomcat initialized with port 8080 (http)
+2024-11-11 15:26:05 - Starting service [Tomcat]
+2024-11-11 15:26:05 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 15:26:05 - Initializing Spring embedded WebApplicationContext
+2024-11-11 15:26:05 - Root WebApplicationContext: initialization completed in 1698 ms
+2024-11-11 15:26:05 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 15:26:05 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 15:26:05 - HHH000026: Second-level cache disabled
+2024-11-11 15:26:05 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 15:26:05 - HikariPool-1 - Starting...
+2024-11-11 15:26:06 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@10b87ff6
+2024-11-11 15:26:06 - HikariPool-1 - Start completed.
+2024-11-11 15:26:06 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 15:26:07 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 15:26:07 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:26:07 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 15:26:08 - 
+
+Using generated security password: 1e833b29-f7b2-4d68-ad92-483038fb363e
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 15:26:08 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 15:26:08 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 15:26:08 - Started TarefasApplication in 5.452 seconds (process running for 5.84)
+2024-11-11 15:26:19 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 15:26:19 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 15:26:19 - Completed initialization in 3 ms
+2024-11-11 15:27:12 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:27:12 - HikariPool-1 - Shutdown initiated...
+2024-11-11 15:27:12 - HikariPool-1 - Shutdown completed.
+2024-11-11 15:27:25 - Starting TarefasApplication using Java 17.0.13 with PID 14044 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 15:27:25 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 15:27:25 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 15:27:26 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 15:27:26 - Finished Spring Data repository scanning in 59 ms. Found 1 JPA repository interface.
+2024-11-11 15:27:27 - Tomcat initialized with port 8080 (http)
+2024-11-11 15:27:27 - Starting service [Tomcat]
+2024-11-11 15:27:27 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 15:27:27 - Initializing Spring embedded WebApplicationContext
+2024-11-11 15:27:27 - Root WebApplicationContext: initialization completed in 1727 ms
+2024-11-11 15:27:27 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 15:27:27 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 15:27:27 - HHH000026: Second-level cache disabled
+2024-11-11 15:27:28 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 15:27:28 - HikariPool-1 - Starting...
+2024-11-11 15:27:28 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@36238b12
+2024-11-11 15:27:28 - HikariPool-1 - Start completed.
+2024-11-11 15:27:28 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 15:27:29 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 15:27:29 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:27:30 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 15:27:30 - 
+
+Using generated security password: 6c0f3cb1-ee4a-43a1-8926-678658fb2dc3
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 15:27:30 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 15:27:30 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 15:27:30 - Started TarefasApplication in 5.872 seconds (process running for 6.32)
+2024-11-11 15:27:31 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 15:27:31 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 15:27:31 - Completed initialization in 1 ms
+2024-11-11 15:32:13 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:32:13 - HikariPool-1 - Shutdown initiated...
+2024-11-11 15:32:13 - HikariPool-1 - Shutdown completed.
+2024-11-11 15:32:27 - Starting TarefasApplication using Java 17.0.13 with PID 17204 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 15:32:27 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 15:32:27 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 15:32:28 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'passwordEncoder' defined in class path resource [com/example/tarefas/config/SecurityConfig.class]: Cannot register bean definition [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=securityConfig; factoryMethodName=passwordEncoder; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [com/example/tarefas/config/SecurityConfig.class]] for bean 'passwordEncoder' since there is already [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=encoderConfig; factoryMethodName=passwordEncoder; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [com/example/tarefas/config/EncoderConfig.class]] bound.
+2024-11-11 15:32:28 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-11 15:32:28 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The bean 'passwordEncoder', defined in class path resource [com/example/tarefas/config/SecurityConfig.class], could not be registered. A bean with that name has already been defined in class path resource [com/example/tarefas/config/EncoderConfig.class] and overriding is disabled.
+
+Action:
+
+Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true
+
+2024-11-11 15:34:51 - Starting TarefasApplication using Java 17.0.13 with PID 10904 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 15:34:51 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 15:34:51 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 15:34:51 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 15:34:51 - Finished Spring Data repository scanning in 64 ms. Found 1 JPA repository interface.
+2024-11-11 15:34:52 - Tomcat initialized with port 8080 (http)
+2024-11-11 15:34:52 - Starting service [Tomcat]
+2024-11-11 15:34:52 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 15:34:52 - Initializing Spring embedded WebApplicationContext
+2024-11-11 15:34:52 - Root WebApplicationContext: initialization completed in 1604 ms
+2024-11-11 15:34:52 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 15:34:52 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 15:34:52 - HHH000026: Second-level cache disabled
+2024-11-11 15:34:53 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 15:34:53 - HikariPool-1 - Starting...
+2024-11-11 15:34:53 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6ed51944
+2024-11-11 15:34:53 - HikariPool-1 - Start completed.
+2024-11-11 15:34:53 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 15:34:54 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 15:34:54 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:34:55 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 15:34:55 - 
+
+Using generated security password: 194b93dd-717b-44ba-ad6f-a1cd7685e5ef
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 15:34:55 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 15:34:55 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 15:34:55 - Started TarefasApplication in 5.447 seconds (process running for 5.917)
+2024-11-11 15:35:13 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 15:35:13 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 15:35:13 - Completed initialization in 2 ms
+2024-11-11 15:49:58 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:49:58 - HikariPool-1 - Shutdown initiated...
+2024-11-11 15:49:58 - HikariPool-1 - Shutdown completed.
+2024-11-11 15:50:08 - Starting TarefasApplication using Java 17.0.13 with PID 16240 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 15:50:08 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 15:50:08 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 15:50:09 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 15:50:09 - Finished Spring Data repository scanning in 55 ms. Found 1 JPA repository interface.
+2024-11-11 15:50:10 - Tomcat initialized with port 8080 (http)
+2024-11-11 15:50:10 - Starting service [Tomcat]
+2024-11-11 15:50:10 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 15:50:10 - Initializing Spring embedded WebApplicationContext
+2024-11-11 15:50:10 - Root WebApplicationContext: initialization completed in 1533 ms
+2024-11-11 15:50:10 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 15:50:10 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 15:50:10 - HHH000026: Second-level cache disabled
+2024-11-11 15:50:10 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 15:50:10 - HikariPool-1 - Starting...
+2024-11-11 15:50:11 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6caa4dc5
+2024-11-11 15:50:11 - HikariPool-1 - Start completed.
+2024-11-11 15:50:11 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 15:50:12 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 15:50:12 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:50:12 - Creating BCryptPasswordEncoder bean
+2024-11-11 15:50:12 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 15:50:12 - 
+
+Using generated security password: fdf8bc6e-ffa2-44c9-bfde-8f5c1aa1380d
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 15:50:12 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 15:50:12 - Configuring security filter chain
+2024-11-11 15:50:12 - CSRF protection disabled
+2024-11-11 15:50:12 - All requests are permitted without authentication
+2024-11-11 15:50:12 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 15:50:12 - Started TarefasApplication in 4.931 seconds (process running for 5.359)
+2024-11-11 15:52:41 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 15:52:41 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 15:52:41 - Completed initialization in 2 ms
+2024-11-11 15:52:41 - Fetching all tasks
+2024-11-11 15:52:41 - Fetched 2 tasks
+2024-11-11 15:53:34 - Creating new task with title: teste 03
+2024-11-11 15:53:34 - Uploaded file: 2024-10-21 (19).png
+2024-11-11 15:53:34 - Password for photo set
+2024-11-11 15:53:34 - Task created with ID: 38
+2024-11-11 15:55:55 - Fetching all tasks
+2024-11-11 15:55:55 - Fetched 3 tasks
+2024-11-11 15:55:55 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:55:55 - HikariPool-1 - Shutdown initiated...
+2024-11-11 15:55:55 - HikariPool-1 - Shutdown completed.
+2024-11-11 15:56:07 - Starting TarefasApplication using Java 17.0.13 with PID 15832 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 15:56:07 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 15:56:07 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 15:56:08 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 15:56:08 - Finished Spring Data repository scanning in 63 ms. Found 1 JPA repository interface.
+2024-11-11 15:56:09 - Tomcat initialized with port 8080 (http)
+2024-11-11 15:56:09 - Starting service [Tomcat]
+2024-11-11 15:56:09 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 15:56:09 - Initializing Spring embedded WebApplicationContext
+2024-11-11 15:56:09 - Root WebApplicationContext: initialization completed in 1664 ms
+2024-11-11 15:56:09 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 15:56:09 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 15:56:09 - HHH000026: Second-level cache disabled
+2024-11-11 15:56:10 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 15:56:10 - HikariPool-1 - Starting...
+2024-11-11 15:56:10 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@13e1e816
+2024-11-11 15:56:10 - HikariPool-1 - Start completed.
+2024-11-11 15:56:10 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 15:56:11 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 15:56:11 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 15:56:12 - Creating BCryptPasswordEncoder bean
+2024-11-11 15:56:12 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 15:56:12 - 
+
+Using generated security password: 9a834cac-d842-4056-adb5-2987f88b0749
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 15:56:12 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 15:56:12 - Configuring security filter chain
+2024-11-11 15:56:12 - CSRF protection disabled
+2024-11-11 15:56:12 - All requests are permitted without authentication
+2024-11-11 15:56:12 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 15:56:12 - Started TarefasApplication in 5.618 seconds (process running for 6.068)
+2024-11-11 15:56:23 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 15:56:23 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 15:56:23 - Completed initialization in 1 ms
+2024-11-11 15:56:23 - Fetching all tasks
+2024-11-11 15:56:23 - Fetched 3 tasks
+2024-11-11 15:58:32 - Fetching all tasks
+2024-11-11 15:58:32 - Fetched 3 tasks
+2024-11-11 15:59:38 - Fetching all tasks
+2024-11-11 15:59:38 - Fetched 3 tasks
+2024-11-11 15:59:57 - Fetching all tasks
+2024-11-11 15:59:57 - Fetched 3 tasks
+2024-11-11 16:02:19 - Fetching all tasks
+2024-11-11 16:02:19 - Fetched 3 tasks
+2024-11-11 16:04:01 - Fetching all tasks
+2024-11-11 16:04:01 - Fetched 3 tasks
+2024-11-11 16:04:04 - Fetching all tasks
+2024-11-11 16:04:04 - Fetched 3 tasks
+2024-11-11 16:15:02 - Fetching all tasks
+2024-11-11 16:15:02 - Fetched 3 tasks
+2024-11-11 16:16:21 - Fetching photo with filename: 2024-10-21 (19).png
+2024-11-11 16:16:21 - Unauthorized access attempt to photo: 2024-10-21 (19).png
+2024-11-11 16:17:05 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 16:17:05 - HikariPool-1 - Shutdown initiated...
+2024-11-11 16:17:05 - HikariPool-1 - Shutdown completed.
+2024-11-11 16:17:18 - Starting TarefasApplication using Java 17.0.13 with PID 15848 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 16:17:18 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 16:17:18 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 16:17:19 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 16:17:19 - Finished Spring Data repository scanning in 54 ms. Found 1 JPA repository interface.
+2024-11-11 16:17:20 - Tomcat initialized with port 8080 (http)
+2024-11-11 16:17:20 - Starting service [Tomcat]
+2024-11-11 16:17:20 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 16:17:20 - Initializing Spring embedded WebApplicationContext
+2024-11-11 16:17:20 - Root WebApplicationContext: initialization completed in 1617 ms
+2024-11-11 16:17:20 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 16:17:20 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 16:17:20 - HHH000026: Second-level cache disabled
+2024-11-11 16:17:21 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 16:17:21 - HikariPool-1 - Starting...
+2024-11-11 16:17:21 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6caa4dc5
+2024-11-11 16:17:21 - HikariPool-1 - Start completed.
+2024-11-11 16:17:21 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 16:17:22 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 16:17:22 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 16:17:23 - Creating BCryptPasswordEncoder bean
+2024-11-11 16:17:23 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 16:17:23 - 
+
+Using generated security password: 03199ba5-fa9a-4bd0-b0b6-bbdd54699da5
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 16:17:23 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 16:17:23 - Configuring security filter chain
+2024-11-11 16:17:23 - CSRF protection disabled
+2024-11-11 16:17:23 - All requests are permitted without authentication
+2024-11-11 16:17:23 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 16:17:23 - Started TarefasApplication in 5.444 seconds (process running for 5.885)
+2024-11-11 16:17:55 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 16:17:55 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 16:17:55 - Completed initialization in 3 ms
+2024-11-11 16:18:35 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-11-11 16:20:24 - Fetching all tasks
+2024-11-11 16:20:33 - Fetching photo with filename: 2024-10-21 (19).png
+2024-11-11 16:20:33 - Comparing entered password with stored hash
+2024-11-11 16:20:33 - Photo fetched successfully: 2024-10-21 (19).png
+2024-11-11 16:20:39 - Fetching photo with filename: 2024-10-21 (19).png
+2024-11-11 16:20:39 - Comparing entered password with stored hash
+2024-11-11 16:20:39 - Unauthorized access attempt to photo: 2024-10-21 (19).png
+2024-11-11 16:20:44 - Fetching photo with filename: 2024-10-21 (19).png
+2024-11-11 16:20:44 - Comparing entered password with stored hash
+2024-11-11 16:20:44 - Unauthorized access attempt to photo: 2024-10-21 (19).png
+2024-11-11 16:20:52 - Fetching photo with filename: 2024-10-21 (19).png
+2024-11-11 16:20:52 - Comparing entered password with stored hash
+2024-11-11 16:20:53 - Unauthorized access attempt to photo: 2024-10-21 (19).png
+2024-11-11 16:21:01 - Fetching photo with filename: 2024-10-21 (19).png
+2024-11-11 16:21:01 - Comparing entered password with stored hash
+2024-11-11 16:21:01 - Photo fetched successfully: 2024-10-21 (19).png
+2024-11-11 16:21:47 - Fetching photo with filename: 2024-10-21 (19).png
+2024-11-11 16:21:47 - Comparing entered password with stored hash
+2024-11-11 16:21:47 - Photo fetched successfully: 2024-10-21 (19).png
+2024-11-11 16:23:05 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-11-11 16:23:47 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 16:23:47 - HikariPool-1 - Shutdown initiated...
+2024-11-11 16:23:47 - HikariPool-1 - Shutdown completed.
+2024-11-11 16:24:51 - Starting TarefasApplication using Java 17.0.13 with PID 4312 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 16:24:51 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 16:24:51 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 16:24:52 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 16:24:52 - Finished Spring Data repository scanning in 57 ms. Found 1 JPA repository interface.
+2024-11-11 16:24:53 - Tomcat initialized with port 8080 (http)
+2024-11-11 16:24:53 - Starting service [Tomcat]
+2024-11-11 16:24:53 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 16:24:53 - Initializing Spring embedded WebApplicationContext
+2024-11-11 16:24:53 - Root WebApplicationContext: initialization completed in 1746 ms
+2024-11-11 16:24:53 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 16:24:53 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 16:24:53 - HHH000026: Second-level cache disabled
+2024-11-11 16:24:54 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 16:24:54 - HikariPool-1 - Starting...
+2024-11-11 16:24:54 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@41167ded
+2024-11-11 16:24:54 - HikariPool-1 - Start completed.
+2024-11-11 16:24:54 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 16:24:56 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 16:24:56 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 16:24:56 - Creating BCryptPasswordEncoder bean
+2024-11-11 16:24:56 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 16:24:56 - 
+
+Using generated security password: ba3bbef4-54e1-4473-8e1b-74d45edf2dfb
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 16:24:56 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 16:24:57 - Configuring security filter chain
+2024-11-11 16:24:57 - CSRF protection disabled
+2024-11-11 16:24:57 - All requests are permitted without authentication
+2024-11-11 16:24:57 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 16:24:57 - Started TarefasApplication in 6.285 seconds (process running for 6.727)
+2024-11-11 16:25:00 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 16:25:00 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 16:25:00 - Completed initialization in 3 ms
+2024-11-11 16:25:00 - Fetching all tasks
+2024-11-11 16:25:07 - Fetching photo with filename: 2024-09-27 (1).png
+2024-11-11 16:25:07 - Comparing entered password with stored hash
+2024-11-11 16:25:08 - Photo fetched successfully: 2024-09-27 (1).png
+2024-11-11 16:25:13 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-11-11 16:25:28 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-11-11 16:25:46 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-11-11 16:25:52 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-11-11 16:25:58 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-11-11 16:25:59 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-11-11 16:26:20 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-11-11 16:26:34 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-11-11 16:26:51 - Fetching all tasks
+2024-11-11 16:27:09 - Updating task with ID: 36
+2024-11-11 16:27:09 - Uploaded file: 2024-10-22 (8).png
+2024-11-11 16:27:09 - Password for photo set
+2024-11-11 16:27:09 - Task updated with ID: 36
+2024-11-11 16:27:19 - Fetching photo with filename: 2024-10-22 (8).png
+2024-11-11 16:27:19 - Comparing entered password with stored hash
+2024-11-11 16:27:19 - Unauthorized access attempt to photo: 2024-10-22 (8).png
+2024-11-11 16:27:27 - Fetching photo with filename: 2024-10-22 (8).png
+2024-11-11 16:27:27 - Comparing entered password with stored hash
+2024-11-11 16:27:28 - Unauthorized access attempt to photo: 2024-10-22 (8).png
+2024-11-11 16:27:39 - Fetching photo with filename: 2024-10-21 (19).png
+2024-11-11 16:27:39 - Comparing entered password with stored hash
+2024-11-11 16:27:39 - Photo fetched successfully: 2024-10-21 (19).png
+2024-11-11 16:27:46 - Fetching photo with filename: 2024-10-21 (10).png
+2024-11-11 16:27:46 - Comparing entered password with stored hash
+2024-11-11 16:27:46 - Photo fetched successfully: 2024-10-21 (10).png
+2024-11-11 16:27:53 - Fetching photo with filename: 2024-10-22 (8).png
+2024-11-11 16:27:53 - Comparing entered password with stored hash
+2024-11-11 16:27:53 - Unauthorized access attempt to photo: 2024-10-22 (8).png
+2024-11-11 16:28:06 - Fetching photo with filename: 2024-10-22 (8).png
+2024-11-11 16:28:06 - Comparing entered password with stored hash
+2024-11-11 16:28:06 - Unauthorized access attempt to photo: 2024-10-22 (8).png
+2024-11-11 16:29:17 - Updating task with ID: 37
+2024-11-11 16:29:17 - Uploaded file: 2024-10-22 (1).png
+2024-11-11 16:29:17 - Password for photo set
+2024-11-11 16:29:17 - Task updated with ID: 37
+2024-11-11 16:29:25 - Fetching photo with filename: 2024-10-22 (1).png
+2024-11-11 16:29:25 - Comparing entered password with stored hash
+2024-11-11 16:29:25 - Unauthorized access attempt to photo: 2024-10-22 (1).png
+2024-11-11 16:40:36 - Fetching all tasks
+2024-11-11 16:40:59 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 16:41:18 - Fetching photo with filename: 2024-10-21 (19).png
+2024-11-11 16:41:18 - Comparing entered password with stored hash
+2024-11-11 16:41:18 - Photo fetched successfully: 2024-10-21 (19).png
+2024-11-11 16:41:30 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 16:41:37 - Updating task with ID: 38
+2024-11-11 16:41:37 - Password for photo set
+2024-11-11 16:41:37 - Task updated with ID: 38
+2024-11-11 16:41:47 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 16:42:05 - Fetching all tasks
+2024-11-11 16:42:16 - Fetching photo with filename: 2024-10-21 (19).png
+2024-11-11 16:42:16 - Comparing entered password with stored hash
+2024-11-11 16:42:16 - Unauthorized access attempt to photo: 2024-10-21 (19).png
+2024-11-11 16:42:54 - Fetching photo with filename: 2024-10-21 (19).png
+2024-11-11 16:42:54 - Comparing entered password with stored hash
+2024-11-11 16:42:54 - Unauthorized access attempt to photo: 2024-10-21 (19).png
+2024-11-11 16:43:14 - Deleting task with ID: 36
+2024-11-11 16:43:14 - Task with ID: 36 deleted
+2024-11-11 16:43:15 - Deleting task with ID: 37
+2024-11-11 16:43:15 - Task with ID: 37 deleted
+2024-11-11 16:43:16 - Deleting task with ID: 38
+2024-11-11 16:43:16 - Task with ID: 38 deleted
+2024-11-11 16:43:21 - Fetching all tasks
+2024-11-11 16:43:34 - Creating new task with title: teste 01
+2024-11-11 16:43:34 - Uploaded file: 2024-10-09.png
+2024-11-11 16:43:34 - Password for photo set
+2024-11-11 16:43:34 - Task created with ID: 39
+2024-11-11 16:43:42 - Fetching photo with filename: 2024-10-09.png
+2024-11-11 16:43:42 - Comparing entered password with stored hash
+2024-11-11 16:43:42 - Photo fetched successfully: 2024-10-09.png
+2024-11-11 16:43:53 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 16:43:59 - Updating task with ID: 39
+2024-11-11 16:43:59 - Password for photo set
+2024-11-11 16:43:59 - Task updated with ID: 39
+2024-11-11 16:44:16 - Fetching photo with filename: 2024-10-09.png
+2024-11-11 16:44:16 - Comparing entered password with stored hash
+2024-11-11 16:44:16 - Unauthorized access attempt to photo: 2024-10-09.png
+2024-11-11 16:44:25 - Fetching all tasks
+2024-11-11 16:44:36 - Deleting task with ID: 39
+2024-11-11 16:44:36 - Task with ID: 39 deleted
+2024-11-11 16:44:40 - Fetching all tasks
+2024-11-11 16:45:05 - Creating new task with title: teste 01
+2024-11-11 16:45:05 - Uploaded file: 2024-10-10 (1).png
+2024-11-11 16:45:06 - Password for photo set
+2024-11-11 16:45:06 - Task created with ID: 40
+2024-11-11 16:45:08 - Fetching all tasks
+2024-11-11 16:45:16 - Fetching all tasks
+2024-11-11 16:45:37 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 16:45:41 - Updating task with ID: 40
+2024-11-11 16:45:42 - Password for photo set
+2024-11-11 16:45:42 - Task updated with ID: 40
+2024-11-11 16:45:45 - Fetching all tasks
+2024-11-11 16:46:35 - Fetching all tasks
+2024-11-11 16:46:59 - Creating new task with title: teste 02
+2024-11-11 16:46:59 - Uploaded file: 2024-10-09.png
+2024-11-11 16:46:59 - Task created with ID: 41
+2024-11-11 16:47:07 - Fetching photo with filename: 2024-10-10 (1).png
+2024-11-11 16:47:07 - Comparing entered password with stored hash
+2024-11-11 16:47:07 - Unauthorized access attempt to photo: 2024-10-10 (1).png
+2024-11-11 16:47:19 - Fetching all tasks
+2024-11-11 16:47:37 - Fetching all tasks
+2024-11-11 16:48:00 - Creating new task with title: teste 03
+2024-11-11 16:48:00 - Uploaded file: 2024-10-09.png
+2024-11-11 16:48:00 - Task created with ID: 42
+2024-11-11 16:48:20 - Creating new task with title: test 04
+2024-11-11 16:48:20 - Uploaded file: 2024-10-09.png
+2024-11-11 16:48:20 - Password for photo set
+2024-11-11 16:48:20 - Task created with ID: 43
+2024-11-11 16:48:27 - Fetching photo with filename: 2024-10-09.png
+2024-11-11 16:48:27 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.dao.IncorrectResultSizeDataAccessException: Query did not return a unique result: 3 results were returned] with root cause
+org.hibernate.NonUniqueResultException: Query did not return a unique result: 3 results were returned
+	at org.hibernate.query.spi.AbstractSelectionQuery.uniqueElement(AbstractSelectionQuery.java:578)
+	at org.hibernate.query.spi.AbstractSelectionQuery.getSingleResult(AbstractSelectionQuery.java:561)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$SingleEntityExecution.doExecute(JpaQueryExecution.java:223)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:92)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:152)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:140)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:170)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:158)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:169)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:148)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:379)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:136)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:223)
+	at jdk.proxy2/jdk.proxy2.$Proxy118.findByFotoUrl(Unknown Source)
+	at com.example.tarefas.controller.TarefaController.getFoto(TarefaController.java:163)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:365)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74)
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:362)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:278)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+2024-11-11 16:56:52 - Fetching all tasks
+2024-11-11 16:56:57 - Deleting task with ID: 40
+2024-11-11 16:56:57 - Task with ID: 40 deleted
+2024-11-11 16:56:59 - Deleting task with ID: 41
+2024-11-11 16:56:59 - Task with ID: 41 deleted
+2024-11-11 16:57:00 - Deleting task with ID: 42
+2024-11-11 16:57:00 - Task with ID: 42 deleted
+2024-11-11 16:57:00 - Deleting task with ID: 43
+2024-11-11 16:57:00 - Task with ID: 43 deleted
+2024-11-11 16:57:10 - Creating new task with title: teste 01
+2024-11-11 16:57:10 - Uploaded file: 2024-10-09.png
+2024-11-11 16:57:11 - Password for photo set
+2024-11-11 16:57:11 - Task created with ID: 44
+2024-11-11 16:57:17 - Fetching photo with filename: 2024-10-09.png
+2024-11-11 16:57:17 - Comparing entered password with stored hash
+2024-11-11 16:57:17 - Photo fetched successfully: 2024-10-09.png
+2024-11-11 16:57:29 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 16:57:46 - Fetching photo with filename: 2024-10-09.png
+2024-11-11 16:57:47 - Comparing entered password with stored hash
+2024-11-11 16:57:47 - Photo fetched successfully: 2024-10-09.png
+2024-11-11 16:57:55 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 16:57:57 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 16:58:01 - Updating task with ID: 44
+2024-11-11 16:58:01 - Password for photo set
+2024-11-11 16:58:01 - Task updated with ID: 44
+2024-11-11 16:58:08 - Fetching photo with filename: 2024-10-09.png
+2024-11-11 16:58:08 - Comparing entered password with stored hash
+2024-11-11 16:58:08 - Unauthorized access attempt to photo: 2024-10-09.png
+2024-11-11 16:59:04 - Fetching all tasks
+2024-11-11 16:59:13 - Fetching all tasks
+2024-11-11 16:59:25 - Fetching all tasks
+2024-11-11 17:00:08 - Fetching photo with filename: 2024-10-09.png
+2024-11-11 17:00:08 - Comparing entered password with stored hash
+2024-11-11 17:00:08 - Unauthorized access attempt to photo: 2024-10-09.png
+2024-11-11 17:00:37 - Deleting task with ID: 44
+2024-11-11 17:00:37 - Task with ID: 44 deleted
+2024-11-11 17:00:43 - Fetching all tasks
+2024-11-11 17:00:54 - Creating new task with title: teste 01
+2024-11-11 17:00:54 - Uploaded file: 2024-10-09.png
+2024-11-11 17:00:54 - Password for photo set
+2024-11-11 17:00:54 - Task created with ID: 45
+2024-11-11 17:01:03 - Fetching all tasks
+2024-11-11 17:03:36 - Fetching all tasks
+2024-11-11 17:03:49 - Creating new task with title: teste 02
+2024-11-11 17:03:49 - Uploaded file: 2024-10-09.png
+2024-11-11 17:03:49 - Password for photo set
+2024-11-11 17:03:49 - Task created with ID: 46
+2024-11-11 17:04:03 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 17:04:19 - Fetching all tasks
+2024-11-11 17:04:23 - Fetching all tasks
+2024-11-11 17:04:30 - Updating task with ID: 46
+2024-11-11 17:04:30 - Password for photo set
+2024-11-11 17:04:30 - Task updated with ID: 46
+2024-11-11 17:04:37 - Fetching all tasks
+2024-11-11 17:09:59 - Fetching all tasks
+2024-11-11 17:10:13 - Creating new task with title: teste 03
+2024-11-11 17:10:13 - Uploaded file: 2024-10-09.png
+2024-11-11 17:10:13 - Password for photo set
+2024-11-11 17:10:13 - Task created with ID: 47
+2024-11-11 17:10:25 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 17:17:11 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 17:17:11 - HikariPool-1 - Shutdown initiated...
+2024-11-11 17:17:11 - HikariPool-1 - Shutdown completed.
+2024-11-11 17:17:22 - Starting TarefasApplication using Java 17.0.13 with PID 2912 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 17:17:22 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 17:17:22 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 17:17:23 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 17:17:23 - Finished Spring Data repository scanning in 98 ms. Found 1 JPA repository interface.
+2024-11-11 17:17:24 - Tomcat initialized with port 8080 (http)
+2024-11-11 17:17:24 - Starting service [Tomcat]
+2024-11-11 17:17:24 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 17:17:24 - Initializing Spring embedded WebApplicationContext
+2024-11-11 17:17:24 - Root WebApplicationContext: initialization completed in 1732 ms
+2024-11-11 17:17:24 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 17:17:24 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 17:17:24 - HHH000026: Second-level cache disabled
+2024-11-11 17:17:24 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 17:17:24 - HikariPool-1 - Starting...
+2024-11-11 17:17:25 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@13e1e816
+2024-11-11 17:17:25 - HikariPool-1 - Start completed.
+2024-11-11 17:17:25 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 17:17:26 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 17:17:26 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 17:17:27 - Creating BCryptPasswordEncoder bean
+2024-11-11 17:17:27 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 17:17:27 - 
+
+Using generated security password: 1c38619f-74a0-4e15-953a-7883cf764008
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 17:17:27 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 17:17:27 - Configuring security filter chain
+2024-11-11 17:17:27 - CSRF protection disabled
+2024-11-11 17:17:27 - All requests are permitted without authentication
+2024-11-11 17:17:27 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 17:17:27 - Started TarefasApplication in 5.928 seconds (process running for 6.434)
+2024-11-11 17:17:28 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 17:17:28 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 17:17:28 - Completed initialization in 1 ms
+2024-11-11 17:17:28 - Fetching all tasks
+2024-11-11 17:17:33 - Fetching all tasks
+2024-11-11 17:17:48 - Creating new task with title: teste 02
+2024-11-11 17:17:48 - Uploaded file: 2024-10-03.png
+2024-11-11 17:17:48 - Password for photo set
+2024-11-11 17:17:48 - Task created with ID: 48
+2024-11-11 17:17:52 - Deleting task with ID: 45
+2024-11-11 17:17:52 - Task with ID: 45 deleted
+2024-11-11 17:17:56 - Deleting task with ID: 46
+2024-11-11 17:17:56 - Task with ID: 46 deleted
+2024-11-11 17:17:57 - Deleting task with ID: 47
+2024-11-11 17:17:57 - Task with ID: 47 deleted
+2024-11-11 17:18:07 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 17:18:40 - Fetching all tasks
+2024-11-11 17:18:49 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 17:30:45 - Fetching all tasks
+2024-11-11 17:30:46 - Deleting task with ID: 48
+2024-11-11 17:30:46 - Task with ID: 48 deleted
+2024-11-11 17:31:04 - Creating new task with title: teste 01
+2024-11-11 17:31:04 - Uploaded file: 2024-10-22 (8).png
+2024-11-11 17:31:04 - Password for photo set
+2024-11-11 17:31:04 - Task created with ID: 49
+2024-11-11 17:31:12 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 17:31:22 - Fetching all tasks
+2024-11-11 17:31:26 - Fetching all tasks
+2024-11-11 17:31:29 - Updating task with ID: 49
+2024-11-11 17:31:29 - Password for photo updated
+2024-11-11 17:31:29 - Task updated with ID: 49
+2024-11-11 17:31:31 - Fetching all tasks
+2024-11-11 17:42:15 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 17:42:15 - HikariPool-1 - Shutdown initiated...
+2024-11-11 17:42:15 - HikariPool-1 - Shutdown completed.
+2024-11-11 17:42:28 - Starting TarefasApplication using Java 17.0.13 with PID 4644 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 17:42:28 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 17:42:28 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 17:42:28 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'corsConfigurer' defined in class path resource [com/example/tarefas/config/WebConfig.class]: Cannot register bean definition [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=webConfig; factoryMethodName=corsConfigurer; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [com/example/tarefas/config/WebConfig.class]] for bean 'corsConfigurer' since there is already [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=corsConfig; factoryMethodName=corsConfigurer; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [com/example/tarefas/config/CorsConfig.class]] bound.
+2024-11-11 17:42:28 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-11 17:42:28 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The bean 'corsConfigurer', defined in class path resource [com/example/tarefas/config/WebConfig.class], could not be registered. A bean with that name has already been defined in class path resource [com/example/tarefas/config/CorsConfig.class] and overriding is disabled.
+
+Action:
+
+Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true
+
+2024-11-11 17:43:30 - Starting TarefasApplication using Java 17.0.13 with PID 7304 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 17:43:30 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 17:43:30 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 17:43:31 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 17:43:31 - Finished Spring Data repository scanning in 55 ms. Found 1 JPA repository interface.
+2024-11-11 17:43:31 - Tomcat initialized with port 8080 (http)
+2024-11-11 17:43:31 - Starting service [Tomcat]
+2024-11-11 17:43:31 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 17:43:31 - Initializing Spring embedded WebApplicationContext
+2024-11-11 17:43:31 - Root WebApplicationContext: initialization completed in 1528 ms
+2024-11-11 17:43:32 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 17:43:32 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 17:43:32 - HHH000026: Second-level cache disabled
+2024-11-11 17:43:32 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 17:43:32 - HikariPool-1 - Starting...
+2024-11-11 17:43:32 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6ed51944
+2024-11-11 17:43:32 - HikariPool-1 - Start completed.
+2024-11-11 17:43:33 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 17:43:34 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 17:43:34 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 17:43:34 - Creating BCryptPasswordEncoder bean
+2024-11-11 17:43:34 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 17:43:34 - 
+
+Using generated security password: 4825d6f0-9086-4325-9229-a41efde13615
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 17:43:34 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 17:43:34 - Configuring security filter chain
+2024-11-11 17:43:34 - CSRF protection disabled
+2024-11-11 17:43:34 - All requests are permitted without authentication
+2024-11-11 17:43:35 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 17:43:35 - Started TarefasApplication in 5.298 seconds (process running for 5.693)
+2024-11-11 17:43:54 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 17:43:54 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 17:43:54 - Completed initialization in 2 ms
+2024-11-11 17:43:54 - Fetching all tasks
+2024-11-11 17:43:56 - Deleting task with ID: 49
+2024-11-11 17:43:57 - Task with ID: 49 deleted
+2024-11-11 17:44:07 - Creating new task with title: teste 01
+2024-11-11 17:44:07 - Uploaded file: 2024-10-21 (8).png
+2024-11-11 17:44:08 - Password for photo set
+2024-11-11 17:44:08 - Task created with ID: 50
+2024-11-11 17:44:16 - Fetching photo with filename: 2024-10-21 (8).png
+2024-11-11 17:44:16 - Comparing entered password with stored hash
+2024-11-11 17:44:16 - Photo fetched successfully: 2024-10-21 (8).png
+2024-11-11 17:44:28 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 17:44:36 - Updating task with ID: 50
+2024-11-11 17:44:36 - Password for photo updated
+2024-11-11 17:44:36 - Task updated with ID: 50
+2024-11-11 17:44:42 - Fetching photo with filename: 2024-10-21 (8).png
+2024-11-11 17:44:42 - Comparing entered password with stored hash
+2024-11-11 17:44:42 - Unauthorized access attempt to photo: 2024-10-21 (8).png
+2024-11-11 17:49:59 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 17:49:59 - HikariPool-1 - Shutdown initiated...
+2024-11-11 17:49:59 - HikariPool-1 - Shutdown completed.
+2024-11-11 17:50:08 - Starting TarefasApplication using Java 17.0.13 with PID 7560 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 17:50:08 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 17:50:08 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 17:50:09 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 17:50:09 - Finished Spring Data repository scanning in 65 ms. Found 1 JPA repository interface.
+2024-11-11 17:50:10 - Tomcat initialized with port 8080 (http)
+2024-11-11 17:50:10 - Starting service [Tomcat]
+2024-11-11 17:50:10 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 17:50:10 - Initializing Spring embedded WebApplicationContext
+2024-11-11 17:50:10 - Root WebApplicationContext: initialization completed in 1578 ms
+2024-11-11 17:50:10 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 17:50:10 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 17:50:10 - HHH000026: Second-level cache disabled
+2024-11-11 17:50:11 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 17:50:11 - HikariPool-1 - Starting...
+2024-11-11 17:50:11 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@32e830a0
+2024-11-11 17:50:11 - HikariPool-1 - Start completed.
+2024-11-11 17:50:11 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 17:50:12 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 17:50:12 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 17:50:13 - Creating BCryptPasswordEncoder bean
+2024-11-11 17:50:13 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 17:50:13 - 
+
+Using generated security password: dfbed2ca-37fb-4a71-a591-d0b0288f54f8
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 17:50:13 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 17:50:13 - Configuring security filter chain
+2024-11-11 17:50:13 - CSRF protection disabled
+2024-11-11 17:50:13 - All requests are permitted without authentication
+2024-11-11 17:50:13 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 17:50:13 - Started TarefasApplication in 5.326 seconds (process running for 5.732)
+2024-11-11 17:50:32 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 17:50:32 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 17:50:32 - Completed initialization in 1 ms
+2024-11-11 17:50:32 - Fetching all tasks
+2024-11-11 17:50:34 - Deleting task with ID: 50
+2024-11-11 17:50:34 - Task with ID: 50 deleted
+2024-11-11 17:50:48 - Creating new task with title: teste 01
+2024-11-11 17:50:48 - Uploaded file: 2024-10-03 (4).png
+2024-11-11 17:50:48 - Password for photo set
+2024-11-11 17:50:48 - Task created with ID: 51
+2024-11-11 17:50:56 - Fetching photo with filename: 2024-10-03 (4).png
+2024-11-11 17:50:56 - Comparing entered password with stored hash
+2024-11-11 17:50:56 - Photo fetched successfully: 2024-10-03 (4).png
+2024-11-11 17:51:06 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-11-11 17:51:19 - Updating task with ID: 51
+2024-11-11 17:51:19 - Password for photo updated
+2024-11-11 17:51:19 - Task updated with ID: 51
+2024-11-11 17:51:26 - Fetching photo with filename: 2024-10-03 (4).png
+2024-11-11 17:51:26 - Comparing entered password with stored hash
+2024-11-11 17:51:26 - Unauthorized access attempt to photo: 2024-10-03 (4).png
+2024-11-11 17:51:49 - Fetching all tasks
+2024-11-11 17:55:05 - Fetching all tasks
+2024-11-11 18:09:34 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 18:09:34 - HikariPool-1 - Shutdown initiated...
+2024-11-11 18:09:34 - HikariPool-1 - Shutdown completed.
+2024-11-11 18:09:45 - Starting TarefasApplication using Java 17.0.13 with PID 15988 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 18:09:45 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 18:09:45 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 18:09:46 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 18:09:46 - Finished Spring Data repository scanning in 57 ms. Found 1 JPA repository interface.
+2024-11-11 18:09:47 - Tomcat initialized with port 8080 (http)
+2024-11-11 18:09:47 - Starting service [Tomcat]
+2024-11-11 18:09:47 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 18:09:47 - Initializing Spring embedded WebApplicationContext
+2024-11-11 18:09:47 - Root WebApplicationContext: initialization completed in 1582 ms
+2024-11-11 18:09:47 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 18:09:47 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 18:09:47 - HHH000026: Second-level cache disabled
+2024-11-11 18:09:48 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 18:09:48 - HikariPool-1 - Starting...
+2024-11-11 18:09:48 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@41167ded
+2024-11-11 18:09:48 - HikariPool-1 - Start completed.
+2024-11-11 18:09:48 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 18:09:49 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 18:09:49 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 18:09:50 - Creating BCryptPasswordEncoder bean
+2024-11-11 18:09:50 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 18:09:50 - 
+
+Using generated security password: 63c08cfc-2de0-4e90-bf9d-20b7bccb2ff7
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 18:09:50 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 18:09:50 - Configuring security filter chain
+2024-11-11 18:09:50 - CSRF protection disabled
+2024-11-11 18:09:50 - All requests are permitted without authentication
+2024-11-11 18:09:50 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 18:09:50 - Started TarefasApplication in 5.744 seconds (process running for 6.164)
+2024-11-11 18:10:11 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 18:10:11 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 18:10:11 - Completed initialization in 2 ms
+2024-11-11 18:10:11 - Fetching all tasks
+2024-11-11 18:10:14 - Deleting task with ID: 51
+2024-11-11 18:10:14 - Task with ID: 51 deleted
+2024-11-11 18:10:26 - Creating new task with title: teste 01
+2024-11-11 18:10:26 - Uploaded file: 2024-10-21 (8).png
+2024-11-11 18:10:26 - Password for photo set
+2024-11-11 18:10:26 - Task created with ID: 52
+2024-11-11 18:11:05 - Updating task with ID: 52
+2024-11-11 18:11:05 - Uploaded file: 2024-10-09.png
+2024-11-11 18:11:05 - Password for photo updated
+2024-11-11 18:11:05 - Task updated with ID: 52
+2024-11-11 18:11:15 - Fetching photo with filename: 2024-10-09.png
+2024-11-11 18:11:15 - Comparing entered password with stored hash
+2024-11-11 18:11:15 - Unauthorized access attempt to photo: 2024-10-09.png
+2024-11-11 18:12:33 - Fetching all tasks
+2024-11-11 18:26:30 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 18:26:30 - HikariPool-1 - Shutdown initiated...
+2024-11-11 18:26:30 - HikariPool-1 - Shutdown completed.
+2024-11-11 18:26:40 - Starting TarefasApplication using Java 17.0.13 with PID 19188 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 18:26:40 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 18:26:40 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 18:26:41 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 18:26:41 - Finished Spring Data repository scanning in 51 ms. Found 1 JPA repository interface.
+2024-11-11 18:26:42 - Tomcat initialized with port 8080 (http)
+2024-11-11 18:26:42 - Starting service [Tomcat]
+2024-11-11 18:26:42 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 18:26:42 - Initializing Spring embedded WebApplicationContext
+2024-11-11 18:26:42 - Root WebApplicationContext: initialization completed in 1510 ms
+2024-11-11 18:26:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 18:26:42 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 18:26:42 - HHH000026: Second-level cache disabled
+2024-11-11 18:26:42 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 18:26:42 - HikariPool-1 - Starting...
+2024-11-11 18:26:43 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5d2e6f62
+2024-11-11 18:26:43 - HikariPool-1 - Start completed.
+2024-11-11 18:26:43 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 18:26:44 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 18:26:44 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 18:26:44 - Creating BCryptPasswordEncoder bean
+2024-11-11 18:26:44 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 18:26:44 - 
+
+Using generated security password: 60f29cdf-da12-4571-951f-87d7d714eddd
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 18:26:44 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 18:26:44 - Configuring security filter chain
+2024-11-11 18:26:44 - CSRF protection disabled
+2024-11-11 18:26:44 - All requests are permitted without authentication
+2024-11-11 18:26:45 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 18:26:45 - Started TarefasApplication in 5.107 seconds (process running for 5.584)
+2024-11-11 18:27:08 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 18:27:08 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 18:27:08 - Completed initialization in 1 ms
+2024-11-11 18:27:08 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-11-11 18:27:43 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 18:27:43 - HikariPool-1 - Shutdown initiated...
+2024-11-11 18:27:43 - HikariPool-1 - Shutdown completed.
+2024-11-11 18:27:54 - Starting TarefasApplication using Java 17.0.13 with PID 17864 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 18:27:54 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 18:27:54 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 18:27:55 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 18:27:55 - Finished Spring Data repository scanning in 48 ms. Found 1 JPA repository interface.
+2024-11-11 18:27:56 - Tomcat initialized with port 8080 (http)
+2024-11-11 18:27:56 - Starting service [Tomcat]
+2024-11-11 18:27:56 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 18:27:56 - Initializing Spring embedded WebApplicationContext
+2024-11-11 18:27:56 - Root WebApplicationContext: initialization completed in 1556 ms
+2024-11-11 18:27:56 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 18:27:56 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 18:27:56 - HHH000026: Second-level cache disabled
+2024-11-11 18:27:56 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 18:27:57 - HikariPool-1 - Starting...
+2024-11-11 18:27:57 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@135e49b2
+2024-11-11 18:27:57 - HikariPool-1 - Start completed.
+2024-11-11 18:27:57 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 18:27:58 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 18:27:58 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 18:27:58 - Creating BCryptPasswordEncoder bean
+2024-11-11 18:27:58 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 18:27:58 - 
+
+Using generated security password: 47c57288-1e60-4951-99bc-d1a8981510a5
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 18:27:58 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 18:27:59 - Configuring security filter chain
+2024-11-11 18:27:59 - CSRF protection disabled
+2024-11-11 18:27:59 - All requests are permitted without authentication
+2024-11-11 18:27:59 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 18:27:59 - Started TarefasApplication in 5.248 seconds (process running for 5.69)
+2024-11-11 18:28:11 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 18:28:11 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 18:28:11 - Completed initialization in 1 ms
+2024-11-11 18:28:11 - Fetching all tasks
+2024-11-11 18:28:17 - Deleting task with ID: 52
+2024-11-11 18:28:18 - Task with ID: 52 deleted
+2024-11-11 18:28:31 - Creating new task with title: teste 01
+2024-11-11 18:28:31 - Uploaded file: 2024-10-09.png
+2024-11-11 18:28:31 - Password for photo set
+2024-11-11 18:28:31 - Task created with ID: 53
+2024-11-11 18:28:49 - Updating task with ID: 53
+2024-11-11 18:28:49 - Uploaded file: 2024-09-27 (5).png
+2024-11-11 18:28:49 - Password for photo updated
+2024-11-11 18:28:49 - Task updated with ID: 53
+2024-11-11 18:28:56 - Fetching photo with filename: 2024-09-27 (5).png
+2024-11-11 18:28:56 - Comparing entered password with stored hash
+2024-11-11 18:28:56 - Unauthorized access attempt to photo: 2024-09-27 (5).png
+2024-11-11 18:38:01 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 18:38:01 - HikariPool-1 - Shutdown initiated...
+2024-11-11 18:38:02 - HikariPool-1 - Shutdown completed.
+2024-11-11 18:38:13 - Starting TarefasApplication using Java 17.0.13 with PID 15572 (C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend\target\classes started by rodri in C:\Users\rodri\OneDrive\Documentos\PROJETO02\backend)
+2024-11-11 18:38:13 - Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-11 18:38:13 - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 18:38:13 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-11 18:38:14 - Finished Spring Data repository scanning in 58 ms. Found 1 JPA repository interface.
+2024-11-11 18:38:14 - Tomcat initialized with port 8080 (http)
+2024-11-11 18:38:14 - Starting service [Tomcat]
+2024-11-11 18:38:14 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-11 18:38:14 - Initializing Spring embedded WebApplicationContext
+2024-11-11 18:38:14 - Root WebApplicationContext: initialization completed in 1575 ms
+2024-11-11 18:38:15 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-11 18:38:15 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-11 18:38:15 - HHH000026: Second-level cache disabled
+2024-11-11 18:38:15 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-11 18:38:15 - HikariPool-1 - Starting...
+2024-11-11 18:38:15 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@60c98f25
+2024-11-11 18:38:15 - HikariPool-1 - Start completed.
+2024-11-11 18:38:15 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-11-11 18:38:16 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-11 18:38:16 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 18:38:17 - Creating BCryptPasswordEncoder bean
+2024-11-11 18:38:17 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-11 18:38:17 - 
+
+Using generated security password: f28d42ab-3840-4a92-a2a5-ee1118f6c6a3
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-11 18:38:17 - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-11 18:38:17 - Configuring security filter chain
+2024-11-11 18:38:17 - CSRF protection disabled
+2024-11-11 18:38:17 - All requests are permitted without authentication
+2024-11-11 18:38:17 - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 18:38:17 - Started TarefasApplication in 5.208 seconds (process running for 5.63)
+2024-11-11 18:38:31 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 18:38:31 - Initializing Servlet 'dispatcherServlet'
+2024-11-11 18:38:31 - Completed initialization in 1 ms
+2024-11-11 18:38:31 - Fetching all tasks
+2024-11-11 18:38:37 - Deleting task with ID: 53
+2024-11-11 18:38:37 - Task with ID: 53 deleted
+2024-11-11 18:38:50 - Creating new task with title: teste 01
+2024-11-11 18:38:50 - Uploaded file: 2024-10-09.png
+2024-11-11 18:38:50 - Password for photo set
+2024-11-11 18:38:50 - Task created with ID: 54
+2024-11-11 18:39:13 - Updating task with ID: 54
+2024-11-11 18:39:13 - Uploaded file: 2024-10-09.png
+2024-11-11 18:39:13 - Password for photo updated
+2024-11-11 18:39:13 - Task updated with ID: 54
+2024-11-11 18:39:26 - Fetching photo with filename: 2024-10-09.png
+2024-11-11 18:39:26 - Comparing entered password with stored hash
+2024-11-11 18:39:26 - Unauthorized access attempt to photo: 2024-10-09.png
+2024-11-11 18:39:53 - Deleting task with ID: 54
+2024-11-11 18:39:53 - Task with ID: 54 deleted
+2024-11-11 18:40:04 - Creating new task with title: teste 01
+2024-11-11 18:40:04 - Uploaded file: 2024-10-10 (1).png
+2024-11-11 18:40:04 - Password for photo set
+2024-11-11 18:40:04 - Task created with ID: 55
+2024-11-11 18:40:14 - Fetching photo with filename: 2024-10-10 (1).png
+2024-11-11 18:40:14 - Comparing entered password with stored hash
+2024-11-11 18:40:14 - Photo fetched successfully: 2024-10-10 (1).png
+2024-11-11 18:40:21 - Fetching photo with filename: 2024-10-10 (1).png
+2024-11-11 18:40:21 - Comparing entered password with stored hash
+2024-11-11 18:40:21 - Photo fetched successfully: 2024-10-10 (1).png
+2024-11-11 18:40:27 - Fetching photo with filename: 2024-10-10 (1).png
+2024-11-11 18:40:27 - Comparing entered password with stored hash
+2024-11-11 18:40:27 - Unauthorized access attempt to photo: 2024-10-10 (1).png
+2024-11-11 18:40:33 - Fetching photo with filename: 2024-10-10 (1).png
+2024-11-11 18:40:33 - Comparing entered password with stored hash
+2024-11-11 18:40:33 - Photo fetched successfully: 2024-10-10 (1).png
+2024-11-11 18:48:48 - Fetching all tasks
+2024-11-11 18:48:52 - Deleting task with ID: 55
+2024-11-11 18:48:52 - Task with ID: 55 deleted
+2024-11-11 18:49:03 - Creating new task with title: teste 01
+2024-11-11 18:49:03 - Uploaded file: 2024-10-09.png
+2024-11-11 18:49:03 - Password for photo set
+2024-11-11 18:49:03 - Task created with ID: 56
+2024-11-11 18:49:24 - Updating task with ID: 56
+2024-11-11 18:49:24 - Uploaded file: 2024-10-10 (1).png
+2024-11-11 18:49:24 - Password for photo not changed
+2024-11-11 18:49:24 - Task updated with ID: 56
+2024-11-11 18:49:24 - Updating task with ID: 56
+2024-11-11 18:49:24 - Uploaded file: 2024-10-10 (1).png
+2024-11-11 18:49:24 - Password for photo not changed
+2024-11-11 18:49:24 - Task updated with ID: 56
+2024-11-11 18:49:33 - Fetching photo with filename: 2024-10-10 (1).png
+2024-11-11 18:49:33 - Comparing entered password with stored hash
+2024-11-11 18:49:33 - Photo fetched successfully: 2024-10-10 (1).png
+2024-11-11 18:49:42 - Fetching photo with filename: 2024-10-10 (1).png
+2024-11-11 18:49:42 - Comparing entered password with stored hash
+2024-11-11 18:49:42 - Unauthorized access attempt to photo: 2024-10-10 (1).png
+2024-11-11 18:50:18 - Updating task with ID: 56
+2024-11-11 18:50:18 - Uploaded file: IMG-20241026-WA0037.jpg
+2024-11-11 18:50:18 - Password for photo not changed
+2024-11-11 18:50:18 - Task updated with ID: 56
+2024-11-11 18:50:18 - Updating task with ID: 56
+2024-11-11 18:50:18 - Uploaded file: IMG-20241026-WA0037.jpg
+2024-11-11 18:50:18 - Password for photo not changed
+2024-11-11 18:50:18 - Task updated with ID: 56
+2024-11-11 18:50:27 - Fetching photo with filename: IMG-20241026-WA0037.jpg
+2024-11-11 18:50:27 - Comparing entered password with stored hash
+2024-11-11 18:50:28 - Photo fetched successfully: IMG-20241026-WA0037.jpg
+2024-11-11 18:50:32 - Fetching photo with filename: IMG-20241026-WA0037.jpg
+2024-11-11 18:50:32 - Comparing entered password with stored hash
+2024-11-11 18:50:32 - Unauthorized access attempt to photo: IMG-20241026-WA0037.jpg
+2024-11-11 18:50:36 - Updating task with ID: 56
+2024-11-11 18:50:36 - Password for photo updated
+2024-11-11 18:50:36 - Task updated with ID: 56
+2024-11-11 18:50:44 - Fetching photo with filename: IMG-20241026-WA0037.jpg
+2024-11-11 18:50:44 - Comparing entered password with stored hash
+2024-11-11 18:50:44 - Unauthorized access attempt to photo: IMG-20241026-WA0037.jpg
+2024-11-11 18:50:55 - Fetching photo with filename: IMG-20241026-WA0037.jpg
+2024-11-11 18:50:55 - Comparing entered password with stored hash
+2024-11-11 18:50:55 - Unauthorized access attempt to photo: IMG-20241026-WA0037.jpg
+2024-11-11 18:56:50 - Fetching all tasks
+2024-11-11 18:56:57 - Fetching all tasks
+2024-11-11 18:57:02 - Deleting task with ID: 56
+2024-11-11 18:57:02 - Task with ID: 56 deleted
+2024-11-11 18:57:14 - Creating new task with title: teste 01
+2024-11-11 18:57:14 - Uploaded file: IMG-20241026-WA0037.jpg
+2024-11-11 18:57:14 - Password for photo set
+2024-11-11 18:57:14 - Task created with ID: 57
+2024-11-11 18:57:23 - Fetching photo with filename: IMG-20241026-WA0037.jpg
+2024-11-11 18:57:23 - Comparing entered password with stored hash
+2024-11-11 18:57:23 - Photo fetched successfully: IMG-20241026-WA0037.jpg
+2024-11-11 18:57:26 - Updating task with ID: 57
+2024-11-11 18:57:26 - Password for photo not changed
+2024-11-11 18:57:26 - Task updated with ID: 57
+2024-11-11 18:57:32 - Fetching photo with filename: IMG-20241026-WA0037.jpg
+2024-11-11 18:57:32 - Comparing entered password with stored hash
+2024-11-11 18:57:32 - Photo fetched successfully: IMG-20241026-WA0037.jpg
+2024-11-11 18:57:47 - Updating task with ID: 57
+2024-11-11 18:57:47 - Uploaded file: 20241017_204845.jpg
+2024-11-11 18:57:47 - Password for photo not changed
+2024-11-11 18:57:47 - Task updated with ID: 57
+2024-11-11 18:57:47 - Updating task with ID: 57
+2024-11-11 18:57:47 - Uploaded file: 20241017_204845.jpg
+2024-11-11 18:57:47 - Password for photo not changed
+2024-11-11 18:57:47 - Task updated with ID: 57
+2024-11-11 18:57:54 - Fetching photo with filename: 20241017_204845.jpg
+2024-11-11 18:57:54 - Comparing entered password with stored hash
+2024-11-11 18:57:54 - Photo fetched successfully: 20241017_204845.jpg
+2024-11-11 19:02:09 - Deleting task with ID: 57
+2024-11-11 19:02:09 - Task with ID: 57 deleted
+2024-11-11 19:02:36 - Creating new task with title: teste 01
+2024-11-11 19:02:36 - Uploaded file: IDPhoto_20240919_153040.jpg
+2024-11-11 19:02:36 - Password for photo set
+2024-11-11 19:02:36 - Task created with ID: 58
+2024-11-11 19:02:48 - Fetching photo with filename: IDPhoto_20240919_153040.jpg
+2024-11-11 19:02:48 - Comparing entered password with stored hash
+2024-11-11 19:02:48 - Photo fetched successfully: IDPhoto_20240919_153040.jpg
+2024-11-11 19:03:12 - Updating task with ID: 58
+2024-11-11 19:03:12 - Uploaded file: 20241017_204845.jpg
+2024-11-11 19:03:12 - Password for photo not changed
+2024-11-11 19:03:12 - Task updated with ID: 58
+2024-11-11 19:03:12 - Updating task with ID: 58
+2024-11-11 19:03:12 - Uploaded file: 20241017_204845.jpg
+2024-11-11 19:03:12 - Password for photo not changed
+2024-11-11 19:03:12 - Task updated with ID: 58
+2024-11-11 19:03:22 - Fetching photo with filename: 20241017_204845.jpg
+2024-11-11 19:03:22 - Comparing entered password with stored hash
+2024-11-11 19:03:22 - Photo fetched successfully: 20241017_204845.jpg
+2024-11-11 19:03:24 - Updating task with ID: 58
+2024-11-11 19:03:24 - Password for photo not changed
+2024-11-11 19:03:24 - Task updated with ID: 58
+2024-11-11 19:03:30 - Fetching photo with filename: 20241017_204845.jpg
+2024-11-11 19:03:30 - Comparing entered password with stored hash
+2024-11-11 19:03:30 - Photo fetched successfully: 20241017_204845.jpg
+2024-11-11 19:03:43 - Updating task with ID: 58
+2024-11-11 19:03:43 - Uploaded file: IMG-20241026-WA0037.jpg
+2024-11-11 19:03:43 - Password for photo not changed
+2024-11-11 19:03:43 - Task updated with ID: 58
+2024-11-11 19:03:43 - Updating task with ID: 58
+2024-11-11 19:03:43 - Uploaded file: IMG-20241026-WA0037.jpg
+2024-11-11 19:03:43 - Password for photo not changed
+2024-11-11 19:03:43 - Task updated with ID: 58
+2024-11-11 19:03:50 - Fetching photo with filename: IMG-20241026-WA0037.jpg
+2024-11-11 19:03:50 - Comparing entered password with stored hash
+2024-11-11 19:03:50 - Photo fetched successfully: IMG-20241026-WA0037.jpg
+2024-11-11 19:04:24 - Fetching all tasks
+2024-11-11 19:07:32 - Updating task with ID: 58
+2024-11-11 19:07:32 - Uploaded file: 20241017_204845.jpg
+2024-11-11 19:07:32 - Password for photo not changed
+2024-11-11 19:07:32 - Task updated with ID: 58
+2024-11-11 19:07:32 - Updating task with ID: 58
+2024-11-11 19:07:32 - Uploaded file: 20241017_204845.jpg
+2024-11-11 19:07:32 - Password for photo not changed
+2024-11-11 19:07:32 - Task updated with ID: 58
+2024-11-11 19:07:38 - Fetching photo with filename: 20241017_204845.jpg
+2024-11-11 19:07:38 - Comparing entered password with stored hash
+2024-11-11 19:07:38 - Photo fetched successfully: 20241017_204845.jpg
+2024-11-11 19:11:01 - Fetching all tasks
+2024-11-11 19:11:22 - Creating new task with title: teste 01
+2024-11-11 19:11:22 - Uploaded file: IMG-20241016-WA0044.jpg
+2024-11-11 19:11:22 - Password for photo set
+2024-11-11 19:11:22 - Task created with ID: 59
+2024-11-11 19:11:45 - Updating task with ID: 59
+2024-11-11 19:11:45 - Uploaded file: IMG-20241026-WA0037.jpg
+2024-11-11 19:11:45 - Password for photo not changed
+2024-11-11 19:11:45 - Task updated with ID: 59
+2024-11-11 19:11:45 - Updating task with ID: 59
+2024-11-11 19:11:45 - Uploaded file: IMG-20241026-WA0037.jpg
+2024-11-11 19:11:45 - Password for photo not changed
+2024-11-11 19:11:45 - Task updated with ID: 59
+2024-11-11 19:11:50 - Updating task with ID: 59
+2024-11-11 19:11:50 - Password for photo not changed
+2024-11-11 19:11:50 - Task updated with ID: 59
+2024-11-11 19:20:30 - Fetching all tasks
+2024-11-11 19:20:53 - Updating task with ID: 58
+2024-11-11 19:20:53 - Uploaded file: IMG-20241016-WA0044.jpg
+2024-11-11 19:20:53 - Password for photo not changed
+2024-11-11 19:20:53 - Task updated with ID: 58
+2024-11-11 19:20:53 - Updating task with ID: 58
+2024-11-11 19:20:53 - Uploaded file: IMG-20241016-WA0044.jpg
+2024-11-11 19:20:53 - Password for photo not changed
+2024-11-11 19:20:53 - Task updated with ID: 58
+2024-11-11 20:31:43 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m26s167ms100µs600ns).
+2024-11-11 20:32:21 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-11 20:32:21 - HikariPool-1 - Shutdown initiated...
+2024-11-11 20:32:21 - HikariPool-1 - Shutdown completed.
